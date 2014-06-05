@@ -1,0 +1,27 @@
+{
+    "name": "amazon-mws",
+    "description": "Amazon Marketplace Web Services (MWS) API wrapper for Node.js",
+    "author": "Rachel Yordán <rachel@intellinode.com>",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "hawk": "latest",
+        "lodash": "latest",
+        "request": "latest",
+        "xml2js": "latest"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "main": "index",
+    "scripts": {
+        "test": "make all",
+        "docs": ""
+    },
+    "engines": {
+        "node": ">=0.6.21"
+    },
+    "license": "MIT"
+}
