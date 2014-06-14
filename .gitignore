@@ -9,3 +9,4 @@ test/binary/tmp/*
 test/tmp/*
 docs/*.md
 docs/*.html
+examples/config.json

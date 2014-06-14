@@ -1,18 +1,18 @@
 // Amazon Marketplace Web Services (MWS) API Wrapper for Node.js
 
-var CartInformation = require('./CartInformation.js');
-var CustomerInformation = require('./CustomerInformation.js');
-var Feeds = require('./Feeds.js');
-var FulfillmentInbound = require('./FulfillmentInbound.js');
-var FulfillmentInventory = require('./FulfillmentInventory.js');
-var FulfillmentOutbound = require('./FulfillmentOutbound.js');
-var OffAmazonPayments = require('./OffAmazonPayments.js');
-var Orders = require('./Orders.js');
-var Products = require('./Products.js');
-var Recommendations = require('./Recommendations.js');
-var Reports = require('./Reports.js');
-var Sellers = require('./Sellers.js');
-var Subscriptions = require('./Subscriptions.js');
+var CartInformation = require('./lib/CartInformation.js');
+var CustomerInformation = require('./lib/CustomerInformation.js');
+var Feeds = require('./lib/Feeds.js');
+var FulfillmentInbound = require('./lib/FulfillmentInbound.js');
+var FulfillmentInventory = require('./lib/FulfillmentInventory.js');
+var FulfillmentOutbound = require('./lib/FulfillmentOutbound.js');
+var OffAmazonPayments = require('./lib/OffAmazonPayments.js');
+var Orders = require('./lib/Orders.js');
+var Products = require('./lib/Products.js');
+var Recommendations = require('./lib/Recommendations.js');
+var Reports = require('./lib/Reports.js');
+var Sellers = require('./lib/Sellers.js');
+var Subscriptions = require('./lib/Subscriptions.js');
 
 
 // Exports
